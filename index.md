@@ -8,6 +8,11 @@ h1 header added
 print("code example")
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 
 
 
